@@ -12,3 +12,26 @@ print(name[0])
 print(name[-3])
 print(name.find('va'))
 print(name.find('ov'))
+print(name.find('an')) #returns index
+print(name.index('iv'))
+#print(name.index('ivwww')) #exception
+print(name.upper())
+print(name.startswith('i'))
+
+randomText = '''
+1
+2
+3
+4
+5
+'''
+print(randomText)
+
+'''
+multi line comment
+1
+2
+3
+4
+5
+'''
